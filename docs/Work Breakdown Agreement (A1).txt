@@ -1,0 +1,48 @@
+﻿Work Breakdown Agreement for FIT2099 Assignment 1
+
+
+Lab 5 Team 3:
+1. George Tan Juan Sheng (30884128)
+2. Samuel Tai Meng Yao  (32025068)
+3. Shun Yao Tee  (32193130)
+
+
+We will separate the class diagram class and sequence diagram into three part:
+
+
+Part 1 (Author: Samuel Tai Meng Yao)
+REQ1 - Let it grow! 
+REQ6 - Monologue 
+REQ7 - Reset Game
+
+
+Initial commit: 7/4/2022
+Completion: 10/4/2022
+Reviewer: George Tan Juan Sheng, Shun Yao Tee        
+
+
+Part 2 (Author Shun Yao Tee)
+REQ2 - Jump Up, Super Star! 
+REQ5 - Trading
+
+
+Initial commit: 7/4/2022
+Completion: 10/4/2022
+Reviewer: George Tan Juan Sheng, Samuel Tai Meng Yao
+
+
+Part 3 (Responsible by George Tan Juan Sheng)
+REQ3 - Enemies
+REQ4 - Magical Items 
+
+
+Initial commit: 7/4/2022
+Completion: 10/4/2022
+Reviewer: Samuel Tai Meng Yao, Shun Yao Tee        
+        
+
+
+Signed by (type “I accept this WBA):
+I accept this WBA.       - Samuel Tai Meng Yao
+I accept this WBA.       - George Tan Juan Sheng
+I accept this WBA. 	 - Tee Shun Yao

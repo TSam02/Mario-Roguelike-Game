@@ -1,0 +1,46 @@
+Work Breakdown Agreement for FIT2099 Assignment 3
+
+
+Lab 5 Team 3:
+1. George Tan Juan Sheng (30884128)
+2. Samuel Tai Meng Yao  (32025068)
+3. Shun Yao Tee  (32193130)
+
+
+We will separate the design & coding implementation (Assignment 3) into three part
+
+
+Part 1 (Author: Samuel Tai Meng Yao)
+REQ4 - Flowers (Structure mode)
+REQ5 - Speaking (Structure mode)
+
+
+Initial commit: 7/5/2022
+Completion: 22/5/2022
+Reviewer: George Tan Juan Sheng, Shun Yao Tee	
+
+
+Part 2 (Author Shun Yao Tee)
+REQ1 - Lava zone 
+REQ3 - Magical fountains
+
+
+Initial commit: 7/5/2022
+Completion: 22/5/2022
+Reviewer: George Tan Juan Sheng, Samuel Tai Meng Yao
+
+
+Part 3 (Author George Tan Juan Sheng)
+REQ2 - More allies and enemies
+REQ4 - Flowers (Structure mode)
+
+
+Initial commit: 7/5/2022
+Completion: 22/5/2022
+Reviewer: Samuel Tai Meng Yao, Shun Yao Tee	
+	
+
+Signed by (type “I accept this WBA):
+I accept this WBA.       - Samuel Tai Meng Yao
+I accept this WBA.       - George Tan Juan Sheng
+I accept this WBA.       - Tee Shun Yao
